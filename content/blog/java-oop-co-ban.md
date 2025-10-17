@@ -1,12 +1,12 @@
 ---
 title: "Java OOP: Lập trình Hướng đối tượng trong Java - Các nguyên lý cơ bản"
-date: 2025-10-18
+date: 2025-10-17
 draft: false
 description: "Tìm hiểu về lập trình hướng đối tượng trong Java: Class, Object và 4 trụ cột OOP - Kế thừa, Đa hình, Đóng gói với ví dụ chi tiết và dễ hiểu."
 categories: ["Programming", "Java", "OOP"]
 tags: ["Java", "OOP", "Object-Oriented", "Class", "Object", "Inheritance", "Polymorphism", "Encapsulation"]
 author: "Phan Thị Huỳnh Ngọc"
-slug: "java-oop-lap-trinh-huong-doi-tuong-trong-java-co-ban"
+slug: "java-oop-co-ban"
 ---
 
 Chào các bạn,
