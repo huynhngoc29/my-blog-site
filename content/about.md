@@ -3,6 +3,8 @@ title: "Về tôi"
 date: 2025-10-17
 draft: false
 description: "Thông tin về tác giả blog - Phan Thị Huỳnh Ngọc"
+layout: "single"
+type: "page"
 ---
 
 # Chào mừng đến với Blog của tôi: Nơi chia sẻ kiến thức lập trình Java và JavaScript
