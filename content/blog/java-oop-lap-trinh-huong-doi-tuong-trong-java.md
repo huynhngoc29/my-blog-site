@@ -1,6 +1,6 @@
 ---
-title: "Java OOP: Lập trình Hướng đối tượng trong Java - Các nguyên lý cơ bản"
-date: 2025-10-16
+title: "Java OOP - Lập trình hướng đối tượng trong Java"
+date: 2025-10-15
 draft: false
 description: "Tìm hiểu về lập trình hướng đối tượng trong Java: Class, Object và 4 trụ cột OOP - Kế thừa, Đa hình, Đóng gói với ví dụ chi tiết và dễ hiểu."
 categories: ["Programming", "Java", "OOP"]

@@ -1,5 +1,7 @@
 ---
-title: "Giới thiệu về Java Collections: List, Set, và Map"
+title: "Giới thiệu về Java Collections: List, Set, Map"
+date: 2025-10-16
+draft: falsetitle: "Giới thiệu về Java Collections: List, Set, và Map"
 date: 2025-10-17
 draft: false
 description: "Tìm hiểu về Java Collections Framework - các cấu trúc dữ liệu quan trọng: List, Set, Map với ví dụ thực tế và cách ứng dụng trong lập trình Java."
