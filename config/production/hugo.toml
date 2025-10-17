@@ -1,5 +1,5 @@
 # Production configuration for GitHub Pages
-baseURL = 'https://huynhngoc29.github.io/my-blog'
+baseURL = 'https://huynhngoc29.github.io/my-blog-site'
 
 # Fix URL canonicalization for production
 canonifyURLs = false

@@ -1,4 +1,4 @@
-module github.com/huynhngoc29/my-blog
+module github.com/huynhngoc29/my-blog-site
 
 go 1.25.0
 
