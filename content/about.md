@@ -75,7 +75,7 @@ Mình cam kết rằng tất cả các bài viết trên blog sẽ được vi�
 
 ## Liên hệ
 
-📧 **Email**: ngoc@example.com  
+📧 **Email**: huynhngoc.29112004@gmail.com  
 🐙 **GitHub**: [huynhngoc29](https://github.com/huynhngoc29)  
 🏫 **Trường**: Đại học Công nghệ TP.HCM  
 
