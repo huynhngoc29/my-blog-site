@@ -1,14 +1,12 @@
 ---
 title: "Java là gì? Giới thiệu về ngôn ngữ lập trình Java"
-date: 2025-10-17T22:30:00+07:00
+date: 2025-10-17
 draft: false
 description: "Tìm hiểu về Java - ngôn ngữ lập trình hướng đối tượng phổ biến nhất thế giới. Lịch sử, đặc điểm và lý do Java vẫn được sử dụng rộng rãi đến ngày nay."
 categories: ["Programming", "Java"]
 tags: ["Java", "Programming", "OOP", "JVM", "Spring Boot", "Oracle"]
 author: "Phan Thị Huỳnh Ngọc"
 slug: "java-la-gi-gioi-thieu-ngon-ngu-lap-trinh-java"
-layout: "single"
-type: "post"
 ---
 
 Java là một ngôn ngữ lập trình hướng đối tượng (Object-Oriented Programming Language) được phát triển bởi James Gosling và nhóm kỹ sư tại Sun Microsystems vào năm 1995 (hiện nay thuộc tập đoàn Oracle). Java được thiết kế với triết lý **"Viết một lần, chạy mọi nơi"** (Write Once, Run Anywhere – WORA), có nghĩa là chương trình viết bằng Java có thể chạy trên bất kỳ hệ điều hành nào có cài đặt Java Virtual Machine (JVM).
