@@ -1,10 +1,10 @@
 ---
 title: "Câu lệnh điều kiện và vòng lặp trong Java"
-date: 2025-10-16
+date: 2025-10-15
 draft: false
-description: "Tìm hiểu về câu lệnh điều kiện (if, else if, else) và các vòng lặp (for, while) trong Java với ví dụ thực tế và chi tiết."
+description: "Học cách sử dụng câu lệnh điều kiện (if-else, switch) và vòng lặp (for, while, do-while) trong Java để điều khiển luồng chương trình một cách hiệu quả."
 categories: ["Programming", "Java", "Control Flow"]
-tags: ["Java", "If Statement", "Loops", "For Loop", "While Loop", "Control Flow", "Conditional Statements"]
+tags: ["Java", "if-else", "switch", "for loop", "while loop", "do-while", "break", "continue"]
 author: "Phan Thị Huỳnh Ngọc"
 slug: "cau-lenh-dieu-kien-va-vong-lap-trong-java"
 ---

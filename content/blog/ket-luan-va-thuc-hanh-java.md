@@ -1,6 +1,6 @@
 ---
 title: "Kết luận và Thực hành - Dự án Java hoàn chỉnh"
-date: 2025-10-17T23:30:00+07:00
+date: 2025-10-17
 draft: false
 description: "Tổng kết kiến thức Java từ cơ bản đến nâng cao và thực hành với dự án quản lý sinh viên hoàn chỉnh. Áp dụng tất cả khái niệm đã học trong một ứng dụng thực tế."
 categories: ["Programming", "Java", "Practice"]

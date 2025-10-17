@@ -1,6 +1,6 @@
 ---
 title: "Các tính năng nâng cao trong Java"
-date: 2025-10-17
+date: 2025-10-15
 draft: false
 description: "Tìm hiểu về xử lý ngoại lệ (Exception Handling) và Java Collections Framework - các tính năng nâng cao quan trọng trong Java với ví dụ thực tế."
 categories: ["Programming", "Java", "Advanced"]
