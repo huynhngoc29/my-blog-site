@@ -1,8 +1,8 @@
 # Production configuration for GitHub Pages
-# baseURL will be set automatically by GitHub Actions
+baseURL = "https://huynhngoc29.github.io/my-blog-site"
 
 # Fix URL canonicalization for production
-canonifyURLs = false
+canonifyURLs = true
 relativeURLs = false
 uglyURLs = false
 

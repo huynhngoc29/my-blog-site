@@ -39,7 +39,7 @@ defaultContentLanguage = "en"
   [params.main]
     separator = "-"
     description = "Blog cá nhân chia sẻ kiến thức về lập trình Java và JavaScript"
-    canonifyAssetsURLs = false
+    canonifyAssetsURLs = true
 
   [params.navigation]
     anchor = true
