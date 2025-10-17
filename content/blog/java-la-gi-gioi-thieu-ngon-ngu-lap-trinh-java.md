@@ -1,6 +1,6 @@
 ---
 title: "Java là gì? Giới thiệu về ngôn ngữ lập trình Java"
-date: 2025-10-17
+date: 2025-10-16
 draft: false
 description: "Tìm hiểu về Java - ngôn ngữ lập trình hướng đối tượng phổ biến nhất thế giới. Lịch sử, đặc điểm và lý do Java vẫn được sử dụng rộng rãi đến ngày nay."
 categories: ["Programming", "Java"]
