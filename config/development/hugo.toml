@@ -1,0 +1,6 @@
+# Development configuration
+baseURL = 'http://localhost:1313'
+
+# Development settings
+canonifyURLs = false
+relativeURLs = false

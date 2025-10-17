@@ -1,0 +1,67 @@
+baseURL = 'http://localhost:1313'
+languageCode = 'en-us'
+title = 'Blog của Ngọc'
+
+# Fix URL canonicalization
+canonifyURLs = false
+relativeURLs = false
+
+# Enable Git info for last modified dates
+enableGitInfo = false
+
+# Additional settings for Hinode theme
+enableEmoji = true
+enableRobotsTXT = true
+
+# Default content language
+defaultContentLanguage = "en"
+
+# Build settings
+[build]
+  writeStats = true
+
+# Taxonomy settings
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+# Pagination
+[pagination]
+  pagerSize = 9
+
+# Hugo Modules configuration
+[module]
+  [[module.imports]]
+    path = "github.com/gethinode/hinode"
+
+# Theme parameters for Hinode
+[params]
+  [params.main]
+    separator = "-"
+    description = "Blog cá nhân chia sẻ kiến thức về lập trình Java và JavaScript"
+    canonifyAssetsURLs = false
+
+  [params.navigation]
+    anchor = true
+    logo = ""
+    color = "body"
+    fixed = true
+    breadcrumb = true
+    toc = true
+    sidebar = true
+
+  [params.style]
+    primary = "#d43900"
+    themeFont = "Inter"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 10
+  
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20

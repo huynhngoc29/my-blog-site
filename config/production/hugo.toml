@@ -1,0 +1,13 @@
+# Production configuration for GitHub Pages
+baseURL = 'https://huynhngoc29.github.io/my-blog'
+
+# Fix URL canonicalization for production
+canonifyURLs = false
+relativeURLs = false
+uglyURLs = false
+
+# Enable Git info for production
+enableGitInfo = true
+
+# Additional production settings
+minify = true
